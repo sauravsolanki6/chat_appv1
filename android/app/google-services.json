@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351287063170",
+    "project_id": "chatmitra-ff572",
+    "storage_bucket": "chatmitra-ff572.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351287063170:android:ffb8eb8cf5be9a51807a9b",
+        "android_client_info": {
+          "package_name": "com.quick.chat_mitra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3wjibcZbFZ6NbuzmrzetVzCndjDUEM0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
